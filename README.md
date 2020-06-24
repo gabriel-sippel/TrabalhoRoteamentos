@@ -2,6 +2,6 @@
 
 Topologia da rede
 
-https://user-images.githubusercontent.com/67288159/85566952-d81c1700-b606-11ea-98d6-94bf93165d35.png
+https://user-images.githubusercontent.com/67288159/85567752-8031e000-b607-11ea-93a4-3b3260d70f2d.png
 
 
